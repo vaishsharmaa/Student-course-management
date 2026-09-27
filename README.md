@@ -55,12 +55,7 @@ student_course_management/
    git clone https://github.com/<your-username>/<repo-name>.git
    cd <repo-name>
    ```
-3. **(Optional) Create a virtual environment:**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate      # on Windows: venv\Scripts\activate
-   ```
-4. **Install dependencies:**
+3. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
