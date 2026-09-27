@@ -2,11 +2,7 @@
 
 ## Problem Statement
 
-Educational institutions need a simple way to track which students are
-enrolled in which courses and what grades they've earned, without the
-overhead of a full web application or paid software. This project builds
-a lightweight, terminal-based system that an administrator can run locally
-to manage this information.
+Educational institutions require an efficient method to track student enrollment and academic performance without the complexity of full-scale web applications or expensive software. This project introduces a lightweight, terminal-based system that allows administrators to manage this data locally.
 
 ## Scope of the project
 
