@@ -1,15 +1,8 @@
 # Student & Course Management System
 
-A command-line application for managing students, courses, and enrollments,
-built as the flipped-course project for **Python Essentials**.
-
 ## Overview
 
-The system lets an administrator maintain student and course records, enroll
-students into courses, assign grades, and pull simple reports (transcripts,
-rosters, enrollment summaries) — all from a terminal menu, with data
-persisted to local CSV files.
-
+The system allows an administrator to manage student and course information, enroll students in courses, assign grades, and generate basic reports (such as transcripts, rosters, and enrollment summaries) all through a terminal menu, with data stored in local CSV files.
 ## Features
 
 - **Student management** — add, view, update, delete
