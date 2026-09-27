@@ -18,10 +18,9 @@ The system allows an administrator to manage student and course information, enr
 
 ## Technologies / tools used
 
-- Python 3.8+
+- Python 3.13.7
 - Standard library only: `csv`, `dataclasses`, `logging`, `re`, `uuid`,
-  `unittest` — no external dependencies required
-
+  `unittest` 
 ## Project structure
 
 ```
